@@ -1,0 +1,5 @@
+# Ignore NodeJS modules required for CLASP
+node_modules/
+# Ignore package-lock and package created by CLASP
+package-lock.json
+package.json
